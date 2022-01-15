@@ -73,7 +73,7 @@ export default function Projects(props) {
                   A fully responsive personal portfolio website with email
                   functionality that showcases some of my latest projects.
                 </p>
-                <a href="https://github.com/code1word">
+                <a href="https://github.com/code1word/Personal-Portfolio-Website">
                   <div className="git-hub">
                     <i className="fa fa-github icon"></i>
                     <span>View on GitHub</span>
